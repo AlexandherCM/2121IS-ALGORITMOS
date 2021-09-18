@@ -1,4 +1,6 @@
-//codigo 1
+//Alexandher Cordoba.
+
+// codigo 1
 console.log('CODE 1')
 console.log("OPTIMO PARA ACREDITAR UNA BECA.")
 
