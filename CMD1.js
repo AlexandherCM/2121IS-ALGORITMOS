@@ -1,4 +1,4 @@
-// Codes of if/else, switch/
+// Codes of if/else, switch // Alexandher Cordoba.
 
 // Codigo 1
 console.log("CODE 1")
