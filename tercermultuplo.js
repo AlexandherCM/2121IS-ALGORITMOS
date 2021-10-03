@@ -1,21 +1,3 @@
-
-// if / else 
-// switch
-// while 
-// for / case / break / default
-// prompt()
-
-// Se ocupa cuando si conozco la cantidad.
-
-// var suma = 3
-// var i = 2;
-
-// for(var i=0; i<=96; i+3){
-// i = parseInt(i) + parseInt(suma)
-//     console.log(+i);
-// }
-
-
 var ad = 3;
     var n = 0;
         for(var i=1; i<=33; i++){
