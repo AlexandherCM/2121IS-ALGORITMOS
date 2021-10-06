@@ -1,3 +1,4 @@
+
 var ad = 3;
     var n = 0;
     
@@ -13,7 +14,3 @@ var ad = 3;
        suma += i
         }}
         console.log("la suma de todo es: "+suma);
-
-
-        
-
